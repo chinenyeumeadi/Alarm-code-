@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#clock {
+  font-size: 48px;
+  text-align: center;
+}
+
+#alarm {
+  margin-top: 50px;
+  text-align: center;
+  color: aqua;
+}
+
+input[type="time"] {
+  font-size: 24px;
+}
+
+button {
+  margin-top: 10px;
+  font-size: 24px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3E8E41;
+}
+
+button:active {
+  background-color: #3E8E41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

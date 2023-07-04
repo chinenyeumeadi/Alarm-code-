@@ -1,0 +1,15 @@
+.timer-container{
+    justify-content:center;
+    margin-top: 100px;
+    color:blue
+}
+
+timer-display{
+    font-size: 50px;
+}
+
+button{
+    color:red;
+    font-size:70px;
+    margin-top: 20px;
+}
